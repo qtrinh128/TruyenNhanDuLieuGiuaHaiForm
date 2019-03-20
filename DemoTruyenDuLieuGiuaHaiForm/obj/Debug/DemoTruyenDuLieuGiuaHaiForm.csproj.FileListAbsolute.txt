@@ -1,0 +1,11 @@
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\bin\Debug\DemoTruyenDuLieuGiuaHaiForm.exe.config
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\bin\Debug\DemoTruyenDuLieuGiuaHaiForm.exe
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\bin\Debug\DemoTruyenDuLieuGiuaHaiForm.pdb
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.csprojAssemblyReference.cache
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.Form1.resources
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.Form2.resources
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.Properties.Resources.resources
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.csproj.GenerateResource.cache
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.csproj.CoreCompileInputs.cache
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.exe
+D:\A\source\DemoTruyenDuLieuGiuaHaiForm\DemoTruyenDuLieuGiuaHaiForm\obj\Debug\DemoTruyenDuLieuGiuaHaiForm.pdb
